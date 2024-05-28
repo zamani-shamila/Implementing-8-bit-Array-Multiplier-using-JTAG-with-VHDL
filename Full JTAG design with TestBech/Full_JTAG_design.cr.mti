@@ -1,0 +1,207 @@
+{F:/university/Concordia/courses/COEN 6521- Design and testability/project/Upload/Full JTAG design/tb_boundryReg.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {F:/university/Concordia/courses/COEN 6521- Design and testability/project/Upload/Full JTAG design/tb_boundryReg.vhd}
+QuestaSim-64 vcom 2021.1 Compiler 2021.01 Jan 19 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tb_boundrySReg
+-- Compiling architecture tb of tb_boundrySReg
+
+} {} {}} {F:/university/Concordia/courses/COEN 6521- Design and testability/project/Upload/Full JTAG design/tb_Bypass.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {F:/university/Concordia/courses/COEN 6521- Design and testability/project/Upload/Full JTAG design/tb_Bypass.vhd}
+QuestaSim-64 vcom 2021.1 Compiler 2021.01 Jan 19 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity tb4_TopLevel
+-- Compiling architecture tb of tb4_TopLevel
+
+} {} {}} {F:/university/Concordia/courses/COEN 6521- Design and testability/project/Upload/Full JTAG design/BypassReg.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {F:/university/Concordia/courses/COEN 6521- Design and testability/project/Upload/Full JTAG design/BypassReg.vhd}
+QuestaSim-64 vcom 2021.1 Compiler 2021.01 Jan 19 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity BypassReg
+-- Compiling architecture Behavioral of BypassReg
+
+} {} {}} {F:/university/Concordia/courses/COEN 6521- Design and testability/project/Upload/Full JTAG design/InstructionRegCell.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {F:/university/Concordia/courses/COEN 6521- Design and testability/project/Upload/Full JTAG design/InstructionRegCell.vhd}
+QuestaSim-64 vcom 2021.1 Compiler 2021.01 Jan 19 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity INstructionRegCell
+-- Compiling architecture Behavioral of INstructionRegCell
+
+} {} {}} {F:/university/Concordia/courses/COEN 6521- Design and testability/project/Upload/Full JTAG design/myAND.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {F:/university/Concordia/courses/COEN 6521- Design and testability/project/Upload/Full JTAG design/myAND.vhd}
+QuestaSim-64 vcom 2021.1 Compiler 2021.01 Jan 19 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity myAND
+-- Compiling architecture Behavioral of myAND
+
+} {} {}} {F:/university/Concordia/courses/COEN 6521- Design and testability/project/Upload/Full JTAG design/tb_Extest.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {F:/university/Concordia/courses/COEN 6521- Design and testability/project/Upload/Full JTAG design/tb_Extest.vhd}
+QuestaSim-64 vcom 2021.1 Compiler 2021.01 Jan 19 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity tb3_TopLevel
+-- Compiling architecture tb of tb3_TopLevel
+
+} {} {}} {F:/university/Concordia/courses/COEN 6521- Design and testability/project/Upload/Full JTAG design/boundryScell_tb.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {F:/university/Concordia/courses/COEN 6521- Design and testability/project/Upload/Full JTAG design/boundryScell_tb.vhd}
+QuestaSim-64 vcom 2021.1 Compiler 2021.01 Jan 19 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tb_boundryScell
+-- Compiling architecture tb of tb_boundryScell
+
+} {} {}} {F:/university/Concordia/courses/COEN 6521- Design and testability/project/Upload/Full JTAG design/fullAdder.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {F:/university/Concordia/courses/COEN 6521- Design and testability/project/Upload/Full JTAG design/fullAdder.vhd}
+QuestaSim-64 vcom 2021.1 Compiler 2021.01 Jan 19 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity fullAdder
+-- Compiling architecture fulladd of fullAdder
+
+} {} {}} {F:/university/Concordia/courses/COEN 6521- Design and testability/project/Upload/Full JTAG design/creating_pp.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {F:/university/Concordia/courses/COEN 6521- Design and testability/project/Upload/Full JTAG design/creating_pp.vhd}
+QuestaSim-64 vcom 2021.1 Compiler 2021.01 Jan 19 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity creating_pp
+-- Compiling architecture Behavioral of creating_pp
+
+} {} {}} {F:/university/Concordia/courses/COEN 6521- Design and testability/project/Upload/Full JTAG design/tb_TestBench.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {F:/university/Concordia/courses/COEN 6521- Design and testability/project/Upload/Full JTAG design/tb_TestBench.vhd}
+QuestaSim-64 vcom 2021.1 Compiler 2021.01 Jan 19 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity tb_TopLevel
+-- Compiling architecture tb of tb_TopLevel
+
+} {} {}} {F:/university/Concordia/courses/COEN 6521- Design and testability/project/Upload/Full JTAG design/BoundryScanReg.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {F:/university/Concordia/courses/COEN 6521- Design and testability/project/Upload/Full JTAG design/BoundryScanReg.vhd}
+QuestaSim-64 vcom 2021.1 Compiler 2021.01 Jan 19 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity boundrySReg
+-- Compiling architecture Behavioral of boundrySReg
+
+} {} {}} {F:/university/Concordia/courses/COEN 6521- Design and testability/project/Upload/Full JTAG design/tb_TopLevelmultiplierTest.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {F:/university/Concordia/courses/COEN 6521- Design and testability/project/Upload/Full JTAG design/tb_TopLevelmultiplierTest.vhd}
+QuestaSim-64 vcom 2021.1 Compiler 2021.01 Jan 19 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity tb2_TopLevel
+-- Compiling architecture tb of tb2_TopLevel
+
+} {} {}} {F:/university/Concordia/courses/COEN 6521- Design and testability/project/Upload/Full JTAG design/tb_TapCtrl.vhd} {2 {vcom -work work -2002 -explicit -vopt -stats=none {F:/university/Concordia/courses/COEN 6521- Design and testability/project/Upload/Full JTAG design/tb_TapCtrl.vhd}
+QuestaSim-64 vcom 2021.1 Compiler 2021.01 Jan 19 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity tb_TapCtrl
+-- Compiling architecture Behavioral of tb_TapCtrl
+** Warning: F:/university/Concordia/courses/COEN 6521- Design and testability/project/Upload/Full JTAG design/tb_TapCtrl.vhd(44): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} {F:/university/Concordia/courses/COEN 6521- Design and testability/project/Upload/Full JTAG design/BoundryScanCell.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {F:/university/Concordia/courses/COEN 6521- Design and testability/project/Upload/Full JTAG design/BoundryScanCell.vhd}
+QuestaSim-64 vcom 2021.1 Compiler 2021.01 Jan 19 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity boundryScell
+-- Compiling architecture behavioral of boundryScell
+
+} {} {}} {F:/university/Concordia/courses/COEN 6521- Design and testability/project/Upload/Full JTAG design/InstructionReg.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {F:/university/Concordia/courses/COEN 6521- Design and testability/project/Upload/Full JTAG design/InstructionReg.vhd}
+QuestaSim-64 vcom 2021.1 Compiler 2021.01 Jan 19 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity InstructionReg
+-- Compiling architecture Behavioral of InstructionReg
+
+} {} {}} {F:/university/Concordia/courses/COEN 6521- Design and testability/project/Upload/Full JTAG design/TapCtrl.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {F:/university/Concordia/courses/COEN 6521- Design and testability/project/Upload/Full JTAG design/TapCtrl.vhd}
+QuestaSim-64 vcom 2021.1 Compiler 2021.01 Jan 19 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity TapCtrl
+-- Compiling architecture Behavioral of TapCtrl
+
+} {} {}} {F:/university/Concordia/courses/COEN 6521- Design and testability/project/Upload/Full JTAG design/TopLevel.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {F:/university/Concordia/courses/COEN 6521- Design and testability/project/Upload/Full JTAG design/TopLevel.vhd}
+QuestaSim-64 vcom 2021.1 Compiler 2021.01 Jan 19 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity TopLevel
+-- Compiling architecture Behavioral of TopLevel
+
+} {} {}} {F:/university/Concordia/courses/COEN 6521- Design and testability/project/Upload/Full JTAG design/Exact_Array_Multi_8bit.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {F:/university/Concordia/courses/COEN 6521- Design and testability/project/Upload/Full JTAG design/Exact_Array_Multi_8bit.vhd}
+QuestaSim-64 vcom 2021.1 Compiler 2021.01 Jan 19 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity multi_8bit
+-- Compiling architecture Behavioral of multi_8bit
+
+} {} {}} {F:/university/Concordia/courses/COEN 6521- Design and testability/project/Upload/Full JTAG design/tb_InstructionReg.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {F:/university/Concordia/courses/COEN 6521- Design and testability/project/Upload/Full JTAG design/tb_InstructionReg.vhd}
+QuestaSim-64 vcom 2021.1 Compiler 2021.01 Jan 19 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity tb_InstructionReg
+-- Compiling architecture tb of tb_InstructionReg
+
+} {} {}} {F:/university/Concordia/courses/COEN 6521- Design and testability/project/Upload/Full JTAG design/tb_BypassReg.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {F:/university/Concordia/courses/COEN 6521- Design and testability/project/Upload/Full JTAG design/tb_BypassReg.vhd}
+QuestaSim-64 vcom 2021.1 Compiler 2021.01 Jan 19 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity tb_BypassReg
+-- Compiling architecture tb of tb_BypassReg
+
+} {} {}}
